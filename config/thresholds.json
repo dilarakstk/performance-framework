@@ -1,0 +1,5 @@
+{
+  "avg_response_time_ms": 400,
+  "p95_response_time_ms": 800,
+  "failure_rate_percent": 1
+}

@@ -1,0 +1,29 @@
+[
+  {
+    "scenario": "low",
+    "users": 10,
+    "spawn_rate": 2,
+    "run_time": "30s",
+    "exit_code": 0,
+    "result": "PASS",
+    "output": "BURAYA G\u0130RD\u0130\n\n--- TEST SONUCU ---\nAverage Response Time: 209.78134347041347 ms\n95th Percentile: 600 ms\nFailure Rate: 0.0 %\nSONU\u00c7: TEST BA\u015eARILI\n"
+  },
+  {
+    "scenario": "medium",
+    "users": 100,
+    "spawn_rate": 10,
+    "run_time": "1m",
+    "exit_code": 0,
+    "result": "PASS",
+    "output": "BURAYA G\u0130RD\u0130\n\n--- TEST SONUCU ---\nAverage Response Time: 223.8383176911038 ms\n95th Percentile: 600 ms\nFailure Rate: 0.03074085459575776 %\nSONU\u00c7: TEST BA\u015eARILI\n"
+  },
+  {
+    "scenario": "high",
+    "users": 300,
+    "spawn_rate": 20,
+    "run_time": "2m",
+    "exit_code": 0,
+    "result": "PASS",
+    "output": "BURAYA G\u0130RD\u0130\n\n--- TEST SONUCU ---\nAverage Response Time: 219.73258726115876 ms\n95th Percentile: 470 ms\nFailure Rate: 0.005053057099545225 %\nSONU\u00c7: TEST BA\u015eARILI\n"
+  }
+]

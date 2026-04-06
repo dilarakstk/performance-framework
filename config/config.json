@@ -1,0 +1,21 @@
+{
+  "host": "https://httpbin.org",
+  "endpoint": "/get",
+  "scenarios": {
+    "low": {
+      "users": 10,
+      "spawn_rate": 2,
+      "run_time": "30s"
+    },
+    "medium": {
+      "users": 100,
+      "spawn_rate": 10,
+      "run_time": "1m"
+    },
+    "high": {
+      "users": 300,
+      "spawn_rate": 20,
+      "run_time": "2m"
+    }
+  }
+}
