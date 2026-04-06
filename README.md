@@ -73,16 +73,12 @@ This framework ensures:
 
 ## 📊 Performance Test Result
 
+![Performance Test](screenshots/performance-test.png)
 
 
----
 
 
-Results from automated load tests across low, medium, and high scenarios.
 
-## 📊 Performance Test Result
-
-<img src="screenshots/performance-test.png" width="800"/>
 
 
 
