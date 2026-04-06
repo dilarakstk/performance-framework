@@ -79,7 +79,6 @@ Results from automated load tests across low, medium, and high scenarios.
 ---
 
 # TEST
-
-![test](./screenshots/performance-test.png)
+![Performance Test](screenshots/performance-test.png)
 
 
