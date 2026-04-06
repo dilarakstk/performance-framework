@@ -53,7 +53,6 @@ See `REPORT.md` for generated output.
 ```bash
 python3 run_tests.py
 python3 generate_report.py
-
 ---
 
 ## 📈 Why This Matters
@@ -74,14 +73,16 @@ This framework ensures:
 
 ## 📊 Performance Test Result
 
-Results from automated load tests across low, medium, and high scenarios.
+
 
 ---
 
-# TEST
 
-![Performance Test](screenshots/performance-test.png)
+Results from automated load tests across low, medium, and high scenarios.
 
+## 📊 Performance Test Result
+
+<img src="screenshots/performance-test.png" width="800"/>
 
 
 
