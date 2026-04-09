@@ -54,6 +54,14 @@ See `REPORT.md` for generated output.
 python3 run_tests.py
 python3 generate_report.py
 ---
+# Run with Locust UI (manual testing)
+locust -f locustfile.py --host=https://httpbin.org
+
+This command launches the Locust web UI.
+You can navigate to http://localhost:8089 to configure and monitor:
+- user load (number of users)
+- spawn rate (user ramp-up speed)
+- real-time performance metrics such as response time and failure rate
 
 ## 📈 Why This Matters
 
